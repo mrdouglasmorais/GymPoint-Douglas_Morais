@@ -1,2 +1,0 @@
-# GymPoint - Douglas Morais
- Gympoint 
